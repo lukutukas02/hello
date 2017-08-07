@@ -1,0 +1,22 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "Labas dar karta asdafgsdf dfgdfg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukutukas02/hello.git"
+  },
+  "author": "Lukas Gudiskis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukutukas02/hello/issues"
+  },
+  "homepage": "https://github.com/lukutukas02/hello#readme",
+  "dependencies": {
+    "runescape-api": "^1.0.9"
+  }
+}
