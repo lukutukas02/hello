@@ -1,2 +1,4 @@
 Labas
+dar karta
+
 
